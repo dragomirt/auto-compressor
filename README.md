@@ -1,16 +1,13 @@
 # auto-compressor
 Automation for compressor.io for bulk compression
-======
 
-### Requirements:
-======
+## Requirements:
 + Python 3.x
 + Selenium
 + Chrome Webdriver (you can get it from here: http://chromedriver.chromium.org/downloads)
 + Google Chrome browser
 
-### Install:
-======
+## Install:
 ##### Unix
 ```bash
 	pip3 install selenium
@@ -28,8 +25,7 @@ Automation for compressor.io for bulk compression
 	# Add the folder to PATH
 ```
 
-### Using the script:
-======
+## Using the script:
 ```bash
 	python3 compressor_io.py <absolute path to the imgs folder> <absolute path to the download folder>
 	# Ex. python3 compressor_io.py C:\workspace\imgs C:\workspace\compressed
