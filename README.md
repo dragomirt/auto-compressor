@@ -4,7 +4,7 @@ Automation for compressor.io for bulk compression
 ## Requirements:
 + Python 3.x
 + Selenium
-+ Chrome Webdriver (you can get it from here: http://chromedriver.chromium.org/downloads)
++ Chrome Webdriver ( Get it here: http://chromedriver.chromium.org/downloads )
 + Google Chrome browser
 
 ## Install:
